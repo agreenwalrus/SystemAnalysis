@@ -91,10 +91,10 @@ dirPaths <- c("C:\\SA_texts\\lab4\\teach\\crypto",
               "C:\\SA_texts\\lab4\\teach\\cloning")
 
 testDir <- "C:\\SA_texts\\lab4\\test\\test\\"
-testFiles1 <- c("cloning4.txt", "cloning5.txt", 
+testFiles <- c("cloning4.txt", "cloning5.txt", 
                "space4.txt", "space5.txt", 
                "crypto4.txt", "crypto5.txt")
-testFiles <- c("cloning4.txt", 
+testFiles1 <- c("cloning4.txt", 
                 "crypto4.txt")
 
 dicts <- list()
@@ -124,6 +124,20 @@ for(fileName in testFiles) {
 }
 
 testFilesCoordinates
+
+sapply(testFilesCoordinates, range)
+
+#install.packages("scatterplot3d")
+library(scatterplot3d) 
+attach(mtcars)
+x <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][1]))
+y <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][2]))
+z <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][3]))
+z
+x
+y
+
+scatterplot3d(x, y, z, main="3D Scatterplot")
 
 
 
