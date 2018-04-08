@@ -16,8 +16,8 @@ prepareTextForAnalizing <- function(text) {
 }
 
 sortWordsByFreq <- function(dict) {
-  v <- sort(rowSums(dict),decreasing=TRUE)
-  sortedDict <- data.frame(word = names(v),freq=v)
+  v <- sort(rowSums(dict), decreasing = TRUE)
+  sortedDict <- data.frame(word = names(v), freq = v)
   
   return(sortedDict)
 }
@@ -57,6 +57,17 @@ getDictionary <- function(corpus, amountOfWords = -1){
     h <- head(h, amountOfWords)
   }
   
+  s <- sum(c(h$freq))
+  freq <- c()
+
+  for(item in h$freq) {
+    freq <- c(freq, item / s)
+    #print(item)
+  }
+  
+  
+  h$freq <- freq
+
   return(h)
 }
 
@@ -71,20 +82,21 @@ getMapFromDictionary <- function(dict) {
 getCoordinatesOfDict <- function(vectors, mappedDict){
   result <- c(0, 0, 0)
   keys <- names(mappedDict)
-  print(result)
-  print(vectors)
-  print(length(vectors))
+  #print(result)
+  #print(vectors)
+  #print(length(vectors))
   
   for (key in keys) {
     for(i in 1:length(vectors)) {
       if (key %in% names(vectors[[i]])){
-        result[i] <- result[i] + mappedDict[key]
+        result[i] <- result[i] + mappedDict[key] * vectors[[i]][key] * 10000 
       }
     }
   }
   
   return(result)
 }
+
 
 dirPaths <- c("C:\\SA_texts\\lab4\\teach\\crypto", 
               "C:\\SA_texts\\lab4\\teach\\space", 
@@ -105,11 +117,13 @@ for(path in dirPaths) {
   i <- i + 1
 }
 
+#dicts
+
 testFiles <- unlist(lapply(testFiles, function(fname, dir){
   paste(dir, fname, sep="")
 }, dir = testDir))
 
-testFiles
+#testFiles
 
 testFilesCoordinates <- list()
 
@@ -118,26 +132,25 @@ for(fileName in testFiles) {
   h <- getDictionary(getCorpusSingleFile(fileName))
   testDict <- getMapFromDictionary(h)
   a <- getCoordinatesOfDict(vectors = dicts, mappedDict = testDict)
-  a
   testFilesCoordinates[[i]] <- list(fileName, a)
   i <- i + 1
 }
 
 testFilesCoordinates
 
-sapply(testFilesCoordinates, range)
+
 
 #install.packages("scatterplot3d")
 library(scatterplot3d) 
 attach(mtcars)
-x <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][1]))
-y <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][2]))
-z <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][3]))
-z
-x
-y
+crypto <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][1]))
+space <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][2]))
+cloning <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][3]))
+crypto
+space
+cloning
 
-scatterplot3d(x, y, z, main="3D Scatterplot")
+scatterplot3d(crypto, space, cloning, main="3D Scatterplot")
 
 
 
