@@ -1,0 +1,67 @@
+Control-F "bitcoin". 94 results
+It seems this article was written at a time when Bitcoin was the only cryptocurrency. I propose an overhaul to generalize the language. Bitcoin should be mentioned in the history/origins section and possibly once in the intro, but that should be it. — Preceding unsigned comment added by 97.77.237.195 (talk • contribs)
+
+Be so kind and try to sign your posts, otherwise we have got no idea who is trying to discuss what. Ladislav Mecir (talk) 22:40, 21 June 2017 (UTC)
+Supposing that it is you who made this edit, I want to inform you about the proper procedure. When your edits are reverted, you are not supposed to turn to edit warring by reverting back immediately. The correct approach is to discuss the changes and try to find consensus. Ladislav Mecir (talk) 23:11, 21 June 2017 (UTC)
+Here is a list of reasons why I find your edits nonconsensual:
+* You inserted a capitalized Bitcoin into the article, while the existing consensus in notable sources like The Chronicle of Higher Education or the Oxford English Dictionary and in this article is to use lowercase bitcoin.
+* You inserted whitespace before a reference, which is discouraged by the Manual of style.
+* The claims in the article you edited were based on an independent reliable source. Editing the claims, you actually misrepresented the cited sources.
+* You also deleted a claim citing a WP:IRS replacing it by your own opinion, violating the priciple that Wikipedia articles must not contain original research.
+Summing up, you still do not have consensus with your edits. Ladislav Mecir (talk) 23:11, 21 June 2017 (UTC)
+Last but not least, by writing "User is shilling Bitcoin on the Cryptocurrency article.", you are violating another important principle, namely to assume good faith. Ladislav Mecir (talk) 23:15, 21 June 2017 (UTC)
+If two people are edit warring, how do you decide which version gets to stay up while the consensus is determined? Did the author of the version I edited get consensus for that edit? What if he/she didn't? — Preceding unsigned comment added by 
+modities" per,[4] but your formulation "that can be used as a digital asset" contradicts the available sources that claim that cryptocurrecies are digital assets, not that they "can be used as" digital assets.
+Summing up, per the sources you mention, I can imagine editing the second sentence of the lead section as follows:
+Cryptocurrencies are classified as commodities,[2][3] as a subset of digital currencies, as a subset of alternative currencies and as a subset of virtual currencies.
+
+Ladislav Mecir (talk) 07:30, 3 November 2017 (UTC)
+References
+
+ "Is Bitcoin Money?" (PDF). WDNY. 2015.
+ Williams, Mark. "Testimony of Mark T. Williams at the January 28-29, 2014 Hearing Regarding Virtual Currencies" (PDF). New York.
+ "Bitcoin is a commodity, not a currency, Allianz's Mohamed El-Erian says". CNBC. 2017.
+ Schuettel, Patrick (2014). "'Irish bitcoin' highlights the issues facing crypto-currencies". School of Management Fribourg/Switzerland.
+Ladislav Mecir, I don't know how it works where you are but here in the United States, having a court case to discover the truth doesn't make me a WP:COI editor, it makes ma an Expert Matter on the subject. I don't own any bitcoins, and I surely will make no money out of that court case; so please explain how that make me a WP:COI... Petitioning the court is the way in this democracy one get to the truth.
+Ladislav Mecir, the sources you mention are made up of journalists that have a hard time understanding what it is so they write something that is wrong and then other journalists read what you have been writing and continue to perpetuate the wrong definition. When I realized that your definition was wrong, I went to see an **economist** (someone with a PhD and I asked what is bitcoin) and we looked at it using the scientific method, method I have asked you repetitively to look at. Instead you have been saying I have a WP:COI
+Ladislav Mecir, here is Thierry Philipponnat, an European economist sitting next to Jed S. Rakoff (if you don't know him Jed S. Rakoff, it's the judge that said Bitcoin is money without using any scientific method and sent Charlie Shrem to jail.) The reason I asked Philipponat the question was to see Rakoff expression. https://www.youtube.com/watch?v=lolFvY52LZw (11 seconds of Philipponat saying it's not a currency. https://www.lesechos.fr/idees-debats/cercle/cercle-173085-le-bitcoin-nest-pas-une-monnaie-2109359.php)
+Ladislav Mecir bitcoin the token is not a currency, it's a Intangible Commodity. It's the first ever invented. Bitcoin is the first Bartering Network over the Internet. If you explain to people bitcoin as an Intangible Commodity, they understand it in less than 5 minutes flat. Why folks are afraid to say those two words? Bartering and Commodity ? You are right, a lot of resources will need to be changed, and I have this ticket open for Bitcoin.org https://github.com/bitcoin-dot-org/bitcoin.org/issues/1887 but the amount of change doesn't mean we stop calling thing by their correct name.
+Ladislav Mecir, bitoins are not a subset of anything. They are the motherload. There is a case in Arizona, https://www.courtlistener.com/docket/6073504/united-states-v-costanzo (or http://courtcasedocs.com/Case%20Files/17-CR-00585-GMS/index.html) where they explain why Bitcoin as money might be unconstitutional (the case will be heard next year.) This is the document: http://courtcasedocs.com/Case%20Files/17-CR-00585-GMS/pdf/052-0-20171030.pdf
+
+Theochino (talk) 15:46, 4 November 2017 (UTC)
+
+The fact that you are in a court case proves that you do have an external relation to the subject - specifically, you are trying to win the court case. I think that being able to edit the Wikipedia as you like would help you in the trial, but that is not allowed here. Ladislav Mecir (talk) 19:37, 4 November 2017 (UTC)
+You have never answered the question about you owning Bitcoins (I take it that you too have an external relationship to the subject.) Do you own any of those items ? Because that would be the same, you have an external relation to the subject. Theochino (talk) 19:30, 6 November 2017 (UTC)
+I never told you that I owned any bitcoins. I do not think it is constructive to claim something you know nothing about. Ladislav Mecir (talk) 20:56, 6 November 2017 (UTC)
+My court case is about finding the truth, there is no winner and looser in my case. It's about defining bitcoin for what it is, an "Intangible Commodity" so the relationship Theochino (talk) 19:30, 6 November 2017 (UTC)
+Your claims related to digital assets are not based on any sources at all. Ladislav Mecir (talk) 20:54, 6 November 2017 (UTC)
+I have attached many articles from Prominent economists that says that bitcoin is a "Commodity" ... and you are ignoring them all because it doesn't suit your narrative. Theochino (talk) 19:30, 6 November 2017 (UTC)
+You cited a couple of articles claiming that "bitcoin is a commodity". I am not ignoring them. The fact is that I found a way to incorporate the claim to the lead section, but you did not react to my proposal, as far as I know. Ladislav Mecir (talk) 21:34, 6 November 2017 (UTC)
+Regarding the question whether bitcoin is money or not - this is known to be controversial, and various authorities present conflicting opinions. That is mentioned in the Wikipedia, and supported by independent reliable sources. Ladislav Mecir (talk) 21:34, 6 November 2017 (UTC)
+It is mentioned as a footnote. I would like to see displayed in the TOP of the page in big bold letters. Theochino (talk) 19:30, 6 November 2017 (UTC)
+I do not think we shall mention it in the lead section and in big bold letters, when it is not settled yet. Ladislav Mecir (talk) 21:34, 6 November 2017 (UTC)
+Regarding my above proposal to reformulate the lead section - do you agree or disagree with it? Ladislav Mecir (talk) 19:58, 4 November 2017 (UTC)
+"All commodities are assets, but not all assets are commodities." so I will agree to the wording that show that it is a Commodity, and then an Asset. Not the other way around. Theochino (talk) 19:30, 6 November 2017 (UTC)
+You seem to have a problem with the digital asset notion. The characterization as a digital asset is, however, quite specific and uncontroversial, as opposed to the classification as a commodity, where even one of your sources presents opposing opinions. Moreover, the classification as a commodity is not a definition. For example, iron can be characterized as a commodity, but (see Iron) that is an economic classification, not a definition what it is. Similarly for bitcoin. The claim that it is a commodity is an economic classification, not a definition what it is. I do not see much sense in putting the classification to the first sentence, which is supposed to define what it is. Ladislav Mecir (talk) 21:34, 6 November 2017 (UTC)
+You are absolutely right that I have a problem with digital asset since it is a legal definition that has its own meaning. The bitcoin token is brand new so it get to have it's unique classification. An Asset is something that as a "static use" and a value that is defined by that static use. Outside of that usage, the asset doesn't have any value. Now, bitcoin doesn't care about the "static use" ... you can make an asset out of bitcoin, but the price of bitcoin is irrelevant on the use you make. For example, the hash code that is tied to a bitcoin for the purpose to tag a song, is an asset; but bitcoin is still the commodity used to make that asset. Theochino (talk) 08:32, 12 November 2017 (UTC)
+"You are absolutely right that I have a problem with digital asset since it is a legal definition that has its own meaning." - interesting. Can you point me to some source claiming that the digital asset notion is a "legal definition"? Ladislav Mecir (talk) 09:50, 12 November 2017 (UTC)
+A digital asset must have an owner, or a creator, if you will, who can legitimately define, protect and enforce "terms of use." Digital asset is unique because its 100% easy to steal and 100% reliant on the rule of law to sustain its rights. Now, lets take it further, on "any asset" definition. The best legal definition for an asset comes from Accounting: Asset is a resource instead of an expense https://en.wikipedia.org/wiki/Asset Under such definition any Blockchain and Crypto keys are and ALWAYS qualify as non-asset due to their limited life-span and expense-like features accompanied by high maintenance fees. You can look at such keys as either an expense, non-asset property with a set depreciation value, or a token of good-faith that may or may not be there tomorrow as means of exchange. Any key by itself can never be an asset, but systems that issue such keys are assets if they do or can bring in revenue. Let me know your thoughts, thanks. Litesand (talk) —Preceding undated comment added 04:03, 13 January 2018 (UTC)
+Mining profitability as a requirement
+The following is a discussion to implement a seemingly simple adjustment into an existing statement within the article. To clarify, this applies only to the validity of the statement alone. My goal is to amend the existing statement in order to clarify limitations of the system.
+
+The existing statement reads: "Miners have a financial incentive to maintain the security of a cryptocurrency ledger."
+
+The new proposed statement, in accordance with the proof below to read: "Miners have a financial incentive to maintain the security of a cryptocurrency ledger while mining is profitable.[1]"
+
+Reason for the adjustment: the existing statement implies that the miners may have an infinite financial incentive to maintain the ledger. Any infinite call to action is false by default. In addition, the existing statement is grossly inaccurate, because it allows for a possibility that miners will continue to provide mining in the event mining process delivers a consistent financial loss. Economic principles do not accommodate for loss as an incentive. The existing statement must therefore be amended to include the limitation of profitability as a requirement for miners’ participation in the maintenance of the ledger.
+
+Facts: miners are required to expense hard costs of mining; mining revenue is the sole financial incentive to miners; mining is the only revenue source engaged as a financial incentive to maintain the ledger.
+
+Evidence: an independent article that shows hard costs are mandatory to mining.
+
+Assumptions: all economic principles are expressed in long term.
+
+Proof: lets begin with an established equation - revenue less expenses equal to profit (EBIT) or loss as a relationship to the financial incentive to maintain the ledger. This equation now combined with hard costs expense requirement, presented as evidence, in turn, allows to include hard costs as a mandatory value in the expense variable. In turn, revenue and a profit must also become mandatory variables of said equation, in order for the equation to balance. In turn, mining must be profitable in order to comply with mandatory variables and assumed long term economic sense. Therefore, when the system requires miners to acquire mandatory costs, miners have a financial incentive to maintain the ledger only while mining is profitable. Hence, no further proof is required.
+
+Let me know your thoughts, support and/or counter-arguments on this issue with specific references, thanks. @Ladislav Mecir: @C.Fred:
+

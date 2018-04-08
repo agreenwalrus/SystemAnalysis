@@ -1,0 +1,202 @@
+      Preparing for that trip to Mars
+      Here are some of the obstacles that scientists are hurdling to get humans to the Red Planet
+      ILIMA LOOMIS
+      FEB 22, 2018 — 6:45 AM EST
+      Mars colony
+      This artist’s illustration depicts what a possible mission to Mars might look like. To make it reality, though, scientists must first solve a lot of problems.
+      E71LENA/ISTOCKPHOTO
+      This is the first of a two-part series on preparations for upcoming human space missions to the Red Planet.
+      
+      Mark Watney has found himself stranded on Mars. It’s 2035 and his crewmates, thinking him dead, have left him behind in their evacuation of the Red Planet. He faces years, all alone, trying to survive in the face of radiation, storms and little food.
+      
+      That last problem turns out to be a solvable one. Watney is a botanist. And he figures out how to grow potatoes. The potato seedlings come from his Thanksgiving dinner. Water is derived from leftover rocket fuel. And his own poop becomes fertilizer.
+      
+      This scenario, from the book and movie The Martian, is science fiction. It is, however, based on fact. NASA studied potatoes in the 1980s and 1990s as a potential crop for human space missions. And though no one is yet growing potatoes on Mars, scientists are already developing tools to grow food in space.
+      
+      space lettuce
+      This is what agriculture in space now looks like. Here, astronaut Peggy Whitson is harvesting lettuce on the International Space Station.
+      NASA
+      Why? People will likely travel to Mars sometime in your lifetime. NASA has said it plans to send people to Mars in the 2030s. And the private space company SpaceX may send its first crewed mission to Mars as early as 2024.
+      
+      But ferrying humans to Mars would be a much bigger challenge than getting them to the moon. To pull it off, we first need to solve a lot of problems. Getting to Mars is just one of them. Then we have to figure out where our food and water will come from. Planners also must figure out how space travelers will get any tools they may suddenly need when they’re millions of miles from the nearest hardware store. It’s a huge undertaking, but researchers around the world are already on the job.
+      
+      Space farmers
+      Today’s space travelers don’t go to the moon or Mars; they head to the International Space Station (ISS). It’s orbiting 381 kilometers (237 miles) above Earth’s surface. There, astronauts live for weeks to months. Among their tasks are conducting experiments and testing equipment that could be useful for future missions to the moon, an asteroid, Mars or beyond.
+      
+      If you visited the ISS today, nearly every bit of food you ate would have been shipped up from Earth. The exception: leafy greens. Those are the first foods being grown on the ISS.
+      
+      There are many reasons NASA wants to learn to grow vegetables in space. Besides providing fresh food for astronauts, plants can provide life support by recycling air and water. “There’s also the psychological benefit that growing plants may have,” says Gioia Massa. She’s a plant scientist and the head of NASA’s Veggie Project at Kennedy Space Center in Cape Canaveral, Fla.
+      
+      As Mark Watney learned on Mars, potatoes might be good survival food. They’ve got decent amounts of protein, some vitamins and other nutrients. They’re also rich in carbohydrates (sugars and starches). You couldn’t survive on potatoes alone. They could, however, help to keep you from starvation.
+      
+      plant pillows
+      Gioia Massa prepares “plant pillows” containing cabbage and lettuce seeds for delivery to the International Space Station.
+      Ben Smegelsky/NASA
+      There are some downsides, though. Potatoes need to be cooked before they can be eaten. And potato plants need a lot of room to grow. So Massa and her colleagues started with something easier: lettuce.
+      
+      In 2014, they sent ISS astronauts a garden. Lettuce seeds were packed into “plant pillows” with baked clay and fertilizer. Add water, some artificial light and voila! The lettuce grew!
+      
+      But the astronauts couldn’t eat it.
+      
+      They had to send every bit back to Earth to be studied. The next year, after NASA scientists confirmed this food was safe, the astronauts grew a second crop. This time they were allowed to chow down.
+      
+      The astronauts used their lettuce to garnish hamburgers. They also made lettuce wraps with lobster salad inside. “They got really creative,” Massa says.
+      
+      Not surprisingly, gardening is different in space than it is on Earth. Without gravity, plants don’t know which way is up. But they adapt. They send their shoots toward light and their roots in the opposite direction. Fans must circulate air. Otherwise, oxygen would gather in a ball around the plants, and they wouldn’t have enough carbon dioxide to do photosynthesis.
+      
+      The scientists also had trouble providing the plants enough water. The fabric plant pillows containing the seeds, clay and fertilizer were designed to draw water from a reservoir. But they didn’t work fast enough. The astronauts ended up needing to water the plants by hand. Massa and her team are now redesigning the watering system.
+      
+      ISS astronauts also have grown Chinese cabbage as well as flowers. In addition to being pretty, astronaut Scott Kelly’s garden of zinnias helped scientists study whether plants flower in space. They do! That’s important to know, because flowering is how some plants reproduce. It’s also part of how some plants make fruit.
+      
+      Future crops will include a bitter Asian green called mizuna and cherry tomatoes, which astronauts will have to pollinate by hand using a tiny brush. “We don’t have bees up there,” notes Massa. One day, they might also grow peppers and herbs.
+      
+      While the veggie garden is small for now, eventually it could someday help feed astronauts on long-distance space missions — or a colony on Mars. “Everything we do is a stepping stone,” Massa explains.
+      
+      Building a faster engine
+      NASA Orion
+      NASA’s Orion spacecraft (artist’s illustration) could one day ferry astronauts to Mars.
+      NASA Orion Spacecraft/Flickr (CC BY-NC-ND 2.0)
+      Reaching the ISS from Earth takes less than a day. A trip to Mars might take nearly a year — and a huge amount of fuel. The chemical engines used to launch a rocket into space with a fiery blast are not good at propelling a spacecraft to another planet. With no gas stations between here and Mars, “You pretty much have to take all your fuel with you,” says Bill Emrich. He’s a nuclear engineer with NASA at the Marshall Space Flight Center in Huntsville, Ala. “If you’re going to do that, you want an engine that’s going to get a lot of miles per gallon.”
+      
+      To do that, he says, you have to go nuclear. The right engine can take a very light gas, such as hydrogen, and heat it to extremely high temperatures in a nuclear reactor. That super-heated gas is sprayed out the back through a nozzle to propel the spacecraft forward. “The hotter you can make the gas coming out of the nozzle, the more efficient it is,” Emrich explains. “Also the lighter the gas, the more efficient it is.”
+      
+      Nuclear engines aren’t just efficient, they’re fast. Unmanned spacecraft have been sent to the outer solar system using what’s known as ion propulsion. It works by accelerating electrically charged atoms, or ions, to push a spacecraft forward. Such a system could take a year to deliver people to Mars.  In contrast, a nuclear thermal engine might shorten that journey to just four or five months, Emrich says.
+      
+      NTREES simulator
+      Nuclear engineer Bill Emrich (right) and project manager Mike Houts discuss the Nuclear Thermal Rocket Element Environmental Simulator (seen in the background).
+      Fred Deaton/NASA
+      To get to Mars that quickly, a large spacecraft would need about 230 grams (a half pound) of uranium fuel. Uranium is radioactive, but the uranium fuel isn’t dangerous. “You could easily hold it in your hand and it wouldn’t hurt you,” Emrich notes. But once the reactor starts to operate, the uranium is split into other elements through fission. That’s when you have to be careful. “Those [fission products] are really very radioactive. And that’s where the deadliness comes in,” he says — “not from the uranium itself, but from the byproducts [of fission].”
+      
+      This system would get rid of one big worry: Even if there were an explosion at lift-off, humans and Earth’s environment would be safe. Why? The spacecraft would use conventional rocket fuel for lift-off. The nuclear-heated engine would not be turned on until the rocket was already in space. Then if there were any explosion, any radioactive material would be spewed into space.
+      
+      Emrich and his colleagues are working on testing the uranium fuel for this engine. Others are working on different parts. Some are looking to develop and test the reactor. Others are designing a way to integrate the reactor into the propulsion system.
+      
+      Building this next generation of space engines takes time. “If we have plenty of funding, it could probably be done in 10 to 15 years,” Emrich says.
+      
+      Print it
+      Astronauts headed to Mars will have to take along almost everything they’ll need. They might be able to harvest some raw materials from the Red Planet. But afterward they’ll need some way to use them. “We have to be much more Earth-independent” than on missions closer to home, says Niki Werkheiser. Like Emrich, she too works at NASA’s Marshall Space Flight Center.
+      
+      Explainer: What is 3-D printing?
+      Astronauts on the ISS have similar problems. If someone needs a special tool, they might have to wait months or longer for the next resupply mission. Werkheiser hopes to change that. She’s the lead scientist for a program that is bringing 3-D printing to space. With 3-D printing, astronauts could build the tools they need with the push of a button.
+      
+      A 3-D printer works a bit like a hot-glue gun. Following a pattern on a computer, the printer squirts out a layer of polymer onto a tray. After this hardens into a plastic, the printer will add another layer. Then another. And it will keep this up until it has built a three-dimensional object. “You can do some really complex designs,” Werkheiser says. “You can build things with gears inside and moving parts — all in one print.”
+      
+      Explainer: What are polymers?
+      On the ISS, printing tools could save time and money. But such printers also offer other benefits. Many of the tools and gadgets sent to space on rockets are made from strong materials. To survive the stresses of launch, they also are heavily reinforced. If they were printed in space, they could be made lighter and thinner, with more room in them for electronics, scientific instruments or other pieces. Such make-your-own tools may even be a necessity on a mission to the moon or Mars, where the delivery of spare parts may not be possible.
+      
+      Niki Werkheiser
+      Niki Werkheiser, manager of NASA’s 3-D printing team, holds the structure of a “cubesat,” or micro satellite, that was printed on a prototype of the first 3-D printer to be sent to the International Space Station.
+      Emmett Given/NASA
+      Printing in space doesn’t work exactly as it does on Earth. For instance, fans are needed to circulate air around the object to cool it during printing. But there are some advantages, too. “On the ground, gravity can actually cause some problems with 3-D printing,” Werkheiser says. Since hot plastic is flexible, earthbound printers sometimes need to add support structures to hold an object upright as it cools. I space, a printer can build in any direction.
+      
+      Werkheiser's team sent its first 3-D printer to the ISS in 2014. It printed paddle-shaped objects as a test. These were then compared to ones printed on Earth. “We really did not see any meaningful difference,” she says.
+      
+      Next, Werkheiser hopes to launch a printer this coming spring that can recycle plastic wastes into the material for printing new objects. And in the future, NASA hopes to develop a fabrication laboratory (the “Fab Lab,” for short) that will be able to print things — even electronics — out of metal.
+      
+      So now that the astronauts can print tools on demand, what was their first request? “We designed them a little back scratcher,” Werkheiser says. It turns out, the dry air on the space station causes astronauts skin to get itchy. Sometimes, at least, the problems of space exploration have very simple solutions.
+      
+      Part two: En route to Mars, astronauts may face big health risks.
+      
+      Power Words
+      (for more about Power Words, click here)
+      
+      3-D printing     A means of producing physical items — including toys, foods and even body parts — using a machine that takes instructions from a computer program. That program tells the machine how and where to lay down successive layers of some raw material (the “ink”) to create a three-dimensional object.
+      
+      asteroid     A rocky object in orbit around the sun. Most asteroids orbit in a region that falls between the orbits of Mars and Jupiter. Astronomers refer to this region as the asteroid belt.
+      
+      astronaut     Someone trained to travel into space for research and exploration.
+      
+      atom     The basic unit of a chemical element. Atoms are made up of a dense nucleus that contains positively charged protons and uncharged neutrons. The nucleus is orbited by a cloud of negatively charged electrons.
+      
+      carbohydrates     Any of a large group of compounds occurring in foods and living tissues, including sugars, starch and cellulose. They contain hydrogen and oxygen in the same ratio as water (2:1) and typically can be broken down in an animal’s body to release energy.
+      
+      carbon     The chemical element having the atomic number 6. It is the physical basis of all life on Earth. Carbon exists freely as graphite and diamond. It is an important part of coal, limestone and petroleum, and is capable of self-bonding, chemically, to form an enormous number of chemically, biologically and commercially important molecules.
+      
+      carbon dioxide     (or CO2) A colorless, odorless gas produced by all animals when the oxygen they inhale reacts with the carbon-rich foods that they’ve eaten. Carbon dioxide also is released when organic matter burns (including fossil fuels like oil or gas). Carbon dioxide acts as a greenhouse gas, trapping heat in Earth’s atmosphere. Plants convert carbon dioxide into oxygen during photosynthesis, the process they use to make their own food.
+      
+      chemical     A substance formed from two or more atoms that unite (bond) in a fixed proportion and structure. For example, water is a chemical made when two hydrogen atoms bond to one oxygen atom. Its chemical formula is H2O. Chemical also can be an adjective to describe properties of materials that are the result of various reactions between different compounds.
+      
+      clay     Fine-grained particles of soil that stick together and can be molded when wet. When fired under intense heat, clay can become hard and brittle. That’s why it’s used to fashion pottery and bricks.
+      
+      colleague     Someone who works with another; a co-worker or team member.
+      
+      electronics     Devices that are powered by electricity but whose properties are controlled by the semiconductors or other circuitry that channel or gate the movement of electric charges.
+      
+      element     (in chemistry) Each of more than one hundred substances for which the smallest unit of each is a single atom. Examples include hydrogen, oxygen, carbon, lithium and uranium.
+      
+      engine     A machine designed to convert energy into useful mechanical motion. Sometimes an engine is called a motor. (in computer science) A computer program that performs a particular, narrow range of functions.
+      
+      engineer     A person who uses science to solve problems. As a verb, to engineer means to design a device, material or process that will solve some problem or unmet need.
+      
+      fertilizer     Nitrogen, phosphorus and other plant nutrients added to soil, water or foliage to boost crop growth or to replenish nutrients that were lost earlier as they were used by plant roots or leaves.
+      
+      fiction     (adj. fictional) An idea or a story that is made-up, not a depiction of real events.
+      
+      fission     The spontaneous splitting of a large unit into smaller self-sustaining parts. (in physics) A process in which large atomic nuclei break apart to form two or more lighter nuclei. The excess mass of the parent nuclei (compared to the resulting smaller ones) is converted into energy.
+      
+      fuel     Any material that will release energy during a controlled chemical or nuclear reaction. Fossil fuels (coal, natural gas and petroleum) are a common type that liberate their energy through chemical reactions that take place when heated (usually to the point of burning).
+      
+      generation     A group of individuals (in any species) born at about the same time or that are regarded as a single group. Your parents belong to one generation of your family, for example, and your grandparents to another. Similarly, you and everyone within a few years of your age across the planet are referred to as belonging to a particular generation of humans. The term also is sometimes extended to year classes of other animals or to types of inanimate objects (such as electronics or automobiles).
+      
+      gravity     The force that attracts anything with mass, or bulk, toward any other thing with mass. The more mass that something has, the greater its gravity.
+      
+      hydrogen     The lightest element in the universe. As a gas, it is colorless, odorless and highly flammable. It’s an integral part of many fuels, fats and chemicals that make up living tissues.
+      
+      International Space Station     An artificial satellite that orbits Earth. Run by the United States and Russia, this station provides a research laboratory from which scientists can conduct experiments in biology, physics and astronomy — and make observations of Earth.
+      
+      ion     (adj. ionized) An atom or molecule with an electric charge due to the loss or gain of one or more electrons. An ionized gas, or plasma, is where all of the electrons have been separated from their parent atoms.
+      
+      Mars     The fourth planet from the sun, just one planet out from Earth. Like Earth, it has seasons and moisture. But its diameter is only about half as big as Earth’s.
+      
+      NASA     Short for the National Aeronautics and Space Administration. Created in 1958, this U.S. agency has become a leader in space research and in stimulating public interest in space exploration. It was through NASA that the United States sent people into orbit and ultimately to the moon. It also has sent research craft to study planets and other celestial objects in our solar system.
+      
+      nozzle     A round spout or slot at the end of a pipe, hose or tube. Nozzles are typically used to control the flow of a jet of some high-pressure liquid or gas.
+      
+      nutrient     A vitamin, mineral, fat, carbohydrate or protein that a plant, animal or other organism requires as part of its food in order to survive.
+      
+      oxygen     A gas that makes up about 21 percent of Earth's atmosphere. All animals and many microorganisms need oxygen to fuel their growth (and metabolism).
+      
+      photosynthesis     (verb: photosynthesize) The process by which green plants and some other organisms use sunlight to produce foods from carbon dioxide and water.
+      
+      planet     A celestial object that orbits a star, is big enough for gravity to have squashed it into a roundish ball and has cleared other objects out of the way in its orbital neighborhood. 
+      
+      plastic     Any of a series of materials that are easily deformable; or synthetic materials that have been made from polymers (long strings of some building-block molecule) that tend to be lightweight, inexpensive and resistant to degradation.
+      
+      pollinate     To transport male reproductive cells — pollen — to female parts of a flower. This allows fertilization, the first step in plant reproduction.
+      
+      polymer     A substance made from long chains of repeating groups of atoms. Manufactured polymers include nylon, polyvinyl chloride (better known as PVC) and many types of plastics. Natural polymers include rubber, silk and cellulose (found in plants and used to make paper, for example).
+      
+      pressure     Force applied uniformly over a surface, measured as force per unit of area.
+      
+      propulsion     The act or process of driving something forward, using a force. For instance, jet engines are one source of propulsion used for keeping airplanes aloft.
+      
+      protein     A compound made from one or more long chains of amino acids. Proteins are an essential part of all living organisms. They form the basis of living cells, muscle and tissues; they also do the work inside of cells. Among the better-known, stand-alone proteins are the hemoglobin (in blood) and the antibodies (also in blood) that attempt to fight infections. Medicines frequently work by latching onto proteins.
+      
+      psychological     An adjective that refers to how the human mind works, especially in relation to guiding actions and behavior. 
+      
+      radiation     (in physics) One of the three major ways that energy is transferred. (The other two are conduction and convection.) In radiation, electromagnetic waves carry energy from one place to another. Unlike conduction and convection, which need material to help transfer the energy, radiation can transfer energy across empty space.
+      
+      radioactive     An adjective that describes unstable elements, such as certain forms (isotopes) of uranium and plutonium. Such elements are said to be unstable because their nucleus sheds energy that is carried away by photons and/or and often one or more subatomic particles. This emission of energy is by a process known as radioactive decay.
+      
+      recycle     To find new uses for something — or parts of something — that might otherwise be discarded, or treated as waste.
+      
+      Red Planet     A nickname for Mars.
+      
+      reservoir     A large store of something. Lakes are reservoirs that hold water. People who study infections refer to the environment in which germs can survive safely (such as the bodies of birds or pigs) as living reservoirs.
+      
+      rocket     Something propelled into the air or through space, sometimes as a weapon of war. A rocket usually is lofted by the release of exhaust gases as some fuel burns. (v.) Something that flings into space at high speed as if fueled by combustion.
+      
+      scenario     A possible (or likely) sequence of events and how they might play out.
+      
+      science fiction     A field of literary or filmed stories that take place against a backdrop of fantasy, usually based on speculations about how science and engineering will direct developments in the distant future. The plots in many of these stories focus on space travel, exaggerated changes attributed to evolution or life in (or on) alien worlds.
+      
+      seedling     The initial plant that sprouts leaves and roots after emerging from a seed.
+      
+      solar system     The eight major planets and their moons in orbit around our sun, together with smaller bodies in the form of dwarf planets, asteroids, meteoroids and comets.
+      
+      thermal     Of or relating to heat. 
+      
+      tungsten     A dense, heavy, white metallic element that has the highest melting point of all elements. It is strong and resistant to corrosion, even at the very high temperatures encountered while moving quickly through the Martian atmosphere.
+      
+      uranium     The heaviest naturally occurring element known. It’s called element 92, which refers to the number of protons in its nucleus. Uranium atoms are radioactive, which means they decay into different atomic nuclei.
+      

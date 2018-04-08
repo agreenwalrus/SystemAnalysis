@@ -1,0 +1,78 @@
+     Most readers have probably heard of Bitcoin, the digital coin that dominates the cryptocurrency market. It has gained notice both because of its skyrocketing value (from less than a cent in early 2010 to around $2,600 currently) and because it is frequently a key player in hacking- and black-market-related stories, from the looting of nearly half a billion dollars in coins from the Mt. Gox exchange in 2014 to the recent demand for payment in Bitcoin in the WannaCry ransomware attack. (For the uninitiated, here is a useful primer on Bitcoin.)
+     
+     But do you know Ethereum, with a total value of coins in circulation of close to $20 billion? Bitcoin Cash, which split off from the original Bitcoin on Aug. 1, lost about half its value within hours, then nearly quadrupled by the next day? Or, rounding out the Big Four, Ripple — whose currency is known as XRP — which shot up to about 40 cents by mid-May from less than a cent at the end of March? (Full disclosure: I owned but unloaded three of these currencies before writing this article.) Then there are over 800 lower-value and often creatively named coins among those listed on Coinmarketcap.com. One can buy FedoraCoin (its jaunty symbol being the Justin Timberlake-approved hat), CannabisCoin (one guess what it looks like) or, to choose one of many bringing up the rear, Quartz, currently priced around three-thousandths of a cent. (Bad news for those who bought it at just under $2 at the end of May.)
+     
+     After years as a niche market for technologically sophisticated anarchists and libertarians excited about a decentralized financial network not under government control, digital coins may be on the verge of going mainstream. “It’s the wild, wild West,” said Ron Ginn, 35, founder of a private photo-sharing service called Text Event Pics in St. Augustine, Fla., who has taken all his money out of the stock market and put it into Ripple and real estate. “This is like getting to invest in the internet in the ’90s. I’m obviously very bullish, but I expect to make a couple million dollars off very little money. This is the opportunity of a lifetime. Finance is getting its internet.”
+     
+     Cryptocurrency has understandable appeal to millennials who came of age during the 2008 financial crisis and are now watching the rise of antiglobalist populism threaten the stability of the international economy.
+     
+     “There’s a low cost for entry, you don’t pay a lot of fees and millennials are the most tech-savvy,” said John Guarco, 22, a recent Duke graduate living on Staten Island who, like most of the people interviewed for this article, asked that names of the coins in which he has invested not be published for fear of being targeted by hackers.
+
+     Unlike previous generations, many of these greenhorn investors don’t have pensions or 401(k)’s, are mistrustful of socking money away in mutual funds and are fully accustomed to owning digital assets that have no concrete properties. As traditional paths to upper-middle-class stability are being blocked by debt, exorbitant housing costs and a shaky job market, these investors view cryptocurrency not only as a hedge against another Dow Jones crash, but also as the most rational — and even utopian — means of investing their money.
+     
+     Sebastian Dinges, 33, the director of operations for Cheeky, a company that makes mealtime products, started his first job after college in 2007. Once he had enough money to invest in the stock market, he said, he “wanted to be risky and get a big return.” Within six months, the market crashed.
+     
+     “So there’s definitely disillusionment,” he said.
+     
+     The majority of Mr. Dinges’s holdings are now in cryptocurrency. His skepticism of traditional markets is shared by a number of cryptocurrency enthusiasts in his age bracket who have observed the recent political and economic upheavals.
+     
+     “I do feel we’ve reached a new level where nobody knows what’s going to happen,” said Gabe Wax, 24, who runs the Rare Book Room recording studio in Brooklyn. “The things we’ve been able to rely on aren’t as reliable and we have a president who knows absolutely nothing about how the economy works, and he’s appointed people who have twisted views about how it works. That, more than anything, is what scares me.”
+     
+     Mr. Wax was still in high school when the 2008 crisis unfolded, but he was paying attention to the headlines. So was Mr. Guarco, who said cryptocurrency was a “safeguard against the volatility in the rest of the world.”
+     
+     “Investing in cryptocurrencies is a hedge,” he continued. “We’re entering a period of long-term deregulation and tax cuts to the wealthiest. It’s not the best recipe for stability.”
+     
+     Mr. Wax also invests in cryptocurrency to shore up his finances as a freelancer in the precarious music industry.
+     
+     “I constantly feel like I’m looking over the edge of a cliff,” he said. “I don’t like the idea of money just sitting in a savings account — with the way inflation works and how low interest rates are, you’re losing money. There’s less money than there’s ever been in the history of recorded music, so that gives me anxiety. It’s weird to say that owning cryptocurrency soothes that anxiety, because it’s counterintuitive, but it does.”
+     
+     He is far from the only one hoping cryptocurrency will assuage his financial worries. Internet forums and Twitter accounts devoted to the subject abound with speculators who view digital coins as a lottery ticket, forecasting “moonshots” with, perhaps, irrational exuberance. For office drudges, the underemployed or those crushed by college loans, the slim chance that a $100 investment may someday reap close to $100 million — as would have happened with an investment of that amount in Bitcoin in 2010 — is too enticing to pass up.
+     
+     But there are plenty of dissenters who are less sanguine about the future of cryptocurrency, arguing that we are in the midst of the biggest bubble yet, fueled by speculative trading in Japan and South Korea, and pointing to previous Bitcoin crashes as justification for their skepticism.
+     
+     Nevertheless, it’s not just twentysomethings in the gig economy who are losing faith in traditional investment tools. Mr. Ginn quit working at Fidelity Investments the day before the market crash in 2008.
+     
+     “It’s not investing,” he said of his old job. “It’s just sticking money somewhere. The investment advisory industry has to give out watered-down, averaged-out advice. When you get into mutual funds, you lose a lot of the ability to beat the markets.”
+     
+     In his view, cryptocurrency left the “dark ages” six months ago, when it was still the domain of “a lot of people who believed in anarchy.” He thinks that cryptocurrency is a good five years from going mainstream and that the bubble will burst some time after that, at which point he will sell his assets.
+     
+     “If my landscaper ever asks me about crypto, that’s the day I get out,” he said.
+     
+     There are some barriers to mass popularity. Investors must have enough familiarity with and trust of the internet to send money through a cryptocurrency exchange, such as Coinbase or Poloniex. Some of the exchanges also have elaborate and slow identity-verification processes, and certain states do not permit users to invest on them yet. But it’s continually getting easier, and various exchanges allow credit cards for speedy purchases.
+     
+     Once one has bought digital coins, the threat of hacking remains a serious concern. Even users savvy enough to use two-factor authentication on their phones may not have the know-how to set up “cold storage,” or a system of storing coins offline (such as on a computer or dedicated piece of hardware not connected to the internet). There is no Federal Deposit Insurance Corporation insuring lost money; once it’s gone, it’s gone.
+     
+     Assuming one’s money is protected, there are, of course, the standard risks of investing, amplified by the volatility of cryptocurrency. It’s common for a coin to fluctuate double-digit percentages within a day, often because of “pump-and-dump” techniques from coordinated users trying to manipulate prices in completely unregulated free markets.
+     
+     For this reason, none of the investors I spoke with engage in short-term trading but instead choose, in the online parlance of cryptocurrency enthusiasts, to “hodl” (a misppelling of “hold” on a 2013 Bitcoin forum that came to mean “hold on for dear life” rather than sell off for temporary gains). Mr. Dinges and his wife recently bought a house in Los Angeles, but he didn’t use his Bitcoins to help with the renovations.
+     
+     “This is a great opportunity to pull it out and put it toward fixing the house,” he said, “but the future potential is not worth it.”
+     
+     Mr. Berg would agree, advising BloKtek Capital clients to “set it and forget it” and not fall prey to the temptation to make short-term transactions.
+     
+     “My wife and I use it as our bank account,” he said. “Every paycheck, we put a percentage into long-term holdings. We do not expect to become rich overnight. That’s a way to become very poor in one hour.” (Though his wife works at his company, it bears mentioning here that the vast majority of cryptocurrency investors seem to be male, and their Twitter discourse tends to be less than refined, with insults often lodged at devotees of rival currencies.)
+     
+     Even those in it for the long haul, however, admit to monitoring the prices compulsively, scratching the gambler’s itch.
+     
+     “If I have a moment where the price has left my mind, I’ll want to reinsert it,” Mr. Wax, the record producer, said. “I check it as much as any social media. It’s become as distracting as anything else on my phone.”
+     
+     As he works in the cryptocurrency world, Mr. Berg maintains an even more observant — and most likely exhausting — regimen.
+     
+     “I’m always watching the markets,” he said. “The saying is, ‘Crypto never sleeps.’ It’s 24/7, it’s global, it doesn’t have a stock market, it doesn’t have a bell.
+     
+     “I sleep about four hours a day.”
+     
+     Beyond its potential long-term financial rewards, many holders of cryptocurrency view it as a vehicle for social change. While many coins have no value beyond serving as a potential alternative currency, or began as larks that have since been popularized by speculators (such as Dogecoin, whose logo is an internet-meme dog and which now has a market capitalization of about $200 million), others — namely Ripple and Ethereum — have meaningful real-world utility and are being adopted by banks and financial institutions.
+     
+     “The financial gain is fun, but it’s really about improving the world, improving the financial system, transparency, cost, increased speed,” Mr. Ginn said. “It’s the double-sided tape for society. When financial markets collapse, the tape rips people apart and you have a system collapse. Finance got away with it in ’08; it almost took the world down, and nothing changed.” In lieu of more stringent government oversight, he believes that Ripple can help “reduce systemic risk.”
+     
+     That safety-net altruism drives Yoni Saltzman, 24, who designs robotic mechanisms for aerospace and medical applications. Mr. Saltzman has holdings in four different cryptocurrencies and is working with a small team in New York to develop a digital coin it hopes to introduce within a year. “It’s not just about making money,” he said. “We like the idea of not only changing the world, but saving the world.”
+     
+     This is, of course, the same vaguely idealistic rationale Silicon Valley executives routinely trot out to justify their ventures, not all of which seem especially concerned with the greater good. In the meantime, those who have boarded the crypto-train frequently proselytize to friends and family. Unsurprisingly, they have more luck with their younger peers. Mr. Guarco, the Duke graduate, has persuaded a few friends to take the plunge.
+     
+     His older relatives, however, unaccustomed to coins that one can’t pluck out of a lint-filled pocket, are a harder sell.
+     
+     “They usually respond, ‘Crypto-what?’” he said.
+     
+     Correction: August 7, 2017 
+     An earlier version of this article omitted an explanation of the online term “hodl,” which has come to mean “hold on for dear life.” It was originally a misspelling of “hold,” not an acronym.

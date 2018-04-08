@@ -97,60 +97,99 @@ getCoordinatesOfDict <- function(vectors, mappedDict){
   return(result)
 }
 
-
-dirPaths <- c("C:\\SA_texts\\lab4\\teach\\crypto", 
-              "C:\\SA_texts\\lab4\\teach\\space", 
-              "C:\\SA_texts\\lab4\\teach\\cloning")
-
-testDir <- "C:\\SA_texts\\lab4\\test\\test\\"
-testFiles <- c("cloning4.txt", "cloning5.txt", 
-               "space4.txt", "space5.txt", 
-               "crypto4.txt", "crypto5.txt")
-testFiles1 <- c("cloning4.txt", 
-                "crypto4.txt")
-
-dicts <- list()
-i <- 1
-for(path in dirPaths) {
-  h <- getDictionary(getCorpustMultipleFiles(path), 60)
-  dicts[[i]] <- getMapFromDictionary(h)
-  i <- i + 1
-}
-
-#dicts
-
-testFiles <- unlist(lapply(testFiles, function(fname, dir){
-  paste(dir, fname, sep="")
-}, dir = testDir))
-
-#testFiles
-
-testFilesCoordinates <- list()
-
-i <- 1
-for(fileName in testFiles) {
-  h <- getDictionary(getCorpusSingleFile(fileName))
-  testDict <- getMapFromDictionary(h)
-  a <- getCoordinatesOfDict(vectors = dicts, mappedDict = testDict)
-  testFilesCoordinates[[i]] <- list(fileName, a)
-  i <- i + 1
-}
-
-testFilesCoordinates
-
-
-
 #install.packages("scatterplot3d")
 library(scatterplot3d) 
 attach(mtcars)
-crypto <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][1]))
-space <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][2]))
-cloning <- unlist(lapply(testFilesCoordinates, function(x) x[[2]][3]))
-crypto
-space
-cloning
 
-scatterplot3d(crypto, space, cloning, main="3D Scatterplot")
+build3dPlot <- function(data) {
+  
+  crypto <- unlist(lapply(data, function(x) x[[2]][1]))
+  space <- unlist(lapply(data, function(x) x[[2]][2]))
+  cloning <- unlist(lapply(data, function(x) x[[2]][3]))
+  print(crypto)
+  print(space)
+  print(cloning)
+  
+  scatterplot3d(crypto, space, cloning, main="Text plot")
+}
+
+getListOfFilesCoordinates <- function(filesPath, dicts) {
+  i <- 1
+  for(fileName in filesPath) {
+    h <- getDictionary(getCorpusSingleFile(fileName))
+    testDict <- getMapFromDictionary(h)
+    a <- getCoordinatesOfDict(vectors = dicts, mappedDict = testDict)
+    testFilesCoordinates[[i]] <- list(fileName, a)
+    i <- i + 1
+  }
+  
+  return(testFilesCoordinates)
+}
+
+getListOfDictsForTexts <- function(dictPaths, sizeOfDict) {
+  dicts <- list()
+  i <- 1
+  for(path in dictPaths) {
+    h <- getDictionary(getCorpustMultipleFiles(path), sizeOfDict)
+    dicts[[i]] <- getMapFromDictionary(h)
+    i <- i + 1
+  }
+  
+  return(dicts)
+}
+
+
+dictPaths <- c("C:\\SA_texts\\lab4\\dicts\\crypto", 
+              "C:\\SA_texts\\lab4\\dicts\\space", 
+              "C:\\SA_texts\\lab4\\dicts\\cloning")
+
+filesDir <- "C:\\SA_texts\\lab4\\files\\"
+testFiles <- c("cloning4.txt", "cloning5.txt", 
+               "space4.txt", "space5.txt", 
+               "crypto4.txt", "crypto5.txt")
+
+kMeanFiles <- c("cloning1.txt", "cloning2.txt", "cloning3.txt", 
+               "space1.txt", "space2.txt", "space3.txt",
+               "crypto1.txt", "crypto2.txt", "crypto3.txt")
+
+
+
+#dicts
+kMeanFiles <- unlist(lapply(kMeanFiles, function(fname, dir){
+  paste(dir, fname, sep="")
+}, dir = filesDir))
+
+testFiles <- unlist(lapply(testFiles, function(fname, dir){
+  paste(dir, fname, sep="")
+}, dir = filesDir))
+
+kMeanFiles <- c (kMeanFiles, testFiles)
+
+
+dicts <- getListOfDictsForTexts(dictPaths = dictPaths, sizeOfDict = 60)
+
+fc <- getListOfFilesCoordinates(filesPath = kMeanFiles, 
+                               dicts = dicts)
+
+build3dPlot(fc)
+
+fc
+
+
+l <- lapply(d, function(el) el[[2]])
+m <- matrix(unlist(l), ncol = 3, byrow = TRUE)
+
+res <- kmeans(x = m, centers = 3)
+res
+
+clasters <- matrix(res$centers, ncol=3)
+
+
+
+res$centers[[1]]
+
+
+
 
 
 
