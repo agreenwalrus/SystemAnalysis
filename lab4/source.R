@@ -30,13 +30,26 @@ formDictionary <- function(preparedText) {
   return(dict)
 } 
 
-getDictionary <- function(dirPath, amountOfWords = -1){
-  articles <- Corpus(DirSource(dirPath),
-                     readerControl = list(reader = readPlain,
-                                          language = "en",
-                                          load = T))
+getCorpusSingleFile <- function(path) {
+  conn <- file(path, "r")
+  fulltext <- readLines(conn)
+  close(conn)
   
-  articles <- prepareTextForAnalizing(articles)
+  vs <- VectorSource(fulltext)
+  return(Corpus(vs, readerControl=list(readPlain, language="en", load=TRUE)))
+}
+
+
+getCorpustMultipleFiles <- function(path) {
+  return(Corpus(DirSource(path), 
+         readerControl = list(reader = readPlain,
+                              language = "en",
+                              load = T)
+         ))
+}
+
+getDictionary <- function(corpus, amountOfWords = -1){
+  articles <- prepareTextForAnalizing(corpus)
   dict <- formDictionary(articles)
   h <- sortWordsByFreq(dict)
   
@@ -77,20 +90,40 @@ dirPaths <- c("C:\\SA_texts\\lab4\\teach\\crypto",
               "C:\\SA_texts\\lab4\\teach\\space", 
               "C:\\SA_texts\\lab4\\teach\\cloning")
 
-testDir <- "C:\\SA_texts\\lab4\\test\\test"
+testDir <- "C:\\SA_texts\\lab4\\test\\test\\"
+testFiles1 <- c("cloning4.txt", "cloning5.txt", 
+               "space4.txt", "space5.txt", 
+               "crypto4.txt", "crypto5.txt")
+testFiles <- c("cloning4.txt", 
+                "crypto4.txt")
 
 dicts <- list()
 i <- 1
 for(path in dirPaths) {
-  h <- getDictionary(path, 60)
+  h <- getDictionary(getCorpustMultipleFiles(path), 60)
   dicts[[i]] <- getMapFromDictionary(h)
   i <- i + 1
 }
 
-h <- getDictionary(testDir)
-testDict <- getMapFromDictionary(h)
+testFiles <- unlist(lapply(testFiles, function(fname, dir){
+  paste(dir, fname, sep="")
+}, dir = testDir))
 
-a <- getCoordinatesOfDict(vectors = dicts, mappedDict = testDict)
-a
+testFiles
+
+testFilesCoordinates <- list()
+
+i <- 1
+for(fileName in testFiles) {
+  h <- getDictionary(getCorpusSingleFile(fileName))
+  testDict <- getMapFromDictionary(h)
+  a <- getCoordinatesOfDict(vectors = dicts, mappedDict = testDict)
+  a
+  testFilesCoordinates[[i]] <- list(fileName, a)
+  i <- i + 1
+}
+
+testFilesCoordinates
+
 
 
