@@ -1,0 +1,38 @@
+ram Cohen invented torrenting. Now he’s building a cryptocurrency called Chia that doesn’t waste electricity like Bitcoin, and top investors are lining up. Chia has just raised a $3.395 million seed round led by AngelList’s Naval Ravikant and joined by Andreessen Horowitz, Greylock and more. The money will help the startup build out its Chia coin and blockchain powered by proofs of space and time instead of Bitcoin’s energy-sucking proofs of work, which it plans to launch in Q1 2019.
+
+But that’s just the start of Chia’s ambitious plan to disrupt Bitcoin. It’s avoiding the often-abused ICO process that Chia president Ryan Singer says comes with “a lot of issues with regulatory uncertainty and investor protection.” Instead, it’s working with its general council and the SEC to do a mini-IPO this summer or fall through the JOBS Act’s Regulation A+ equity crowdfunding rule. That could let Chia raise a maximum of $50 million from the public, non-accredited amateur investors included.
+
+
+
+“People who buy in an ICO are uncertain of how the company will spend the money and how they’ll get the things they were promised,” says Singer, who was COO of cryptocurrency exchange Tradehill and started several other blockchain companies. “We’re going to operate the company with the transparency and accountability expected of a public company, which is very different than most ICOs.”
+
+
+Chia Network co-founder and president Ryan Singer
+
+Chia will do a pre-mine of its currency but initially retain ownership of 100 percent of the coins, using the mini-IPO to foster a community of investors. “We’re planning on issuing a dividend of Chia to our shareholders in advance of the network launch,” says Singer. “This ensures we can get it in people’s hands to use on the network without marketing and selling it as a security or investment opportunity.”
+
+Because the public offering is capped at $50 million, Chia will use an auction where investors choose how much they’ll bid for how many shares. It’s similar to the process Google used to IPO. The more popular it is and higher people bid, the less equity Chia will have to sell to get the $50 million. Once a clearing price is locked in, everyone who bid below it will get no shares and their deposit back, while those who bid over get their shares plus a refund of the difference between their high bid and actual price.
+
+“This may be the first fully compliant public offering for a crypto company,” a Chia spokesperson writes.
+
+The killer feature in crypto: Legitimacy
+After Cohen invented the torrenting file transfer protocol in 2004 and co-founded a company around it called BitTorrent, the startup suffered through a decade of mismanagement by other CEOs. So this time around, he seems determined to keep control, holding the CEO title himself. Still, Singer the businessman has been the one orchestrating the fundraises and growing Chia’s team to six, while Cohen works to derisk the startup’s complex technical roadmap.
+
+“There’s been a fair amount of pretty deep algorithmic work and that’s been going quite well, but these are things that have to be taken seriously,” says Cohen, who makes maddeningly difficult handheld 3D puzzles in his spare time. “You absolutely must worry on a technical level about all the ways something could go wrong because building secure distributed databases is hard.” It’s quite a statement from a guy who built the protocol BitTorrent said at one point moved 40 percent of world’s internet traffic per day. Chia is now aggressively hiring engineers with experience in decentralized network protocols, math and cryptography to lay the code for its coin launch.
+
+
+
+They’ll be working on an alternative to Bitcoin’s proofs of work, which require CPUs and GPUs that drain huge amounts of electricity in order to verify the blockchain. This has led to massive Bitcoin mining pools that split the proceeds while operating near cheap electricity sources and cold air to cool the mining rigs, like in the Pacific Northwest. These centralized teams of miners threaten to allow manipulation of Bitcoin’s price and network.
+
+Chia ditched proofs of work for proofs relying on file storage space that people often have sitting around unused on their computers and can use for free. Chia layers on proofs of time that thwart a range of attacks on proofs of space. It’s also building in “non-outsourceability” that prevents mining pools from forming. Essentially, anyone in a Chia mining pool could secretly run off with the rewards without sharing them, so no one will want to trust their fellow miners not to rip them off.
+
+Cohen believes these features of Chia will fix both the electricity waste and centralization of Bitcoin.
+
+
+
+“Do you have a white paper?” he says people ask, referring to the often vague, theoretical and unverified claims blockchain companies make about their technology. “We have actual papers in refereed journals,” Cohen laughs. Chia had a peer-reviewed article published in the 38-years-running cryptography conference AsiaCrypt’s journal.
+
+The regulated public offering, the scientific rigor and the seed round joined by True Ventures, Danhuacap, DCM and Ravikant’s MetaStable crypto hedge fund are all part of a campaign to establish Chia as more reputable than the rest of the blockchain industry. “It’s important to us to be seen by the marketplace as a real investment and not just a pump and dump, hence us going for more institutional investors that aren’t trying to flip their positions as soon as they become liquid,” Cohen explains.
+
+The cryptocurrency space has been dominated by bold claims, weak follow-through, limited utility and plenty of scams. That’s poisoned the well, souring the public and inviting government regulation. Chia has a lot to live up to. Even if the technology works, beating the network effect of other cryptocurrencies and getting enough Chia owners so it actually becomes useful will be tough. But with a solid team, set of investors and plan, Chia could prove the blockchain’s worth beyond Bitcoin.
+
